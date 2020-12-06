@@ -11,10 +11,27 @@
 - 재직회사: [Openmate](http://www.openmate.co.kr)
 - 특이사항: 전문연구요원으로 복무중(전직가능, 2021.08 복무완료)
 - 자격증: 정보처리기
+- 역할: Fullstack Web Programmer
 
-## 활동
+## Skill Tree
+- FE: CSS3, HTML5, Javascript(ES3, ES5, ES6)
+- BE: Java, JPA, Mybatis, JSTL, JSP, PHP, NodeJS
+- DB: Oracle, MariaDB, postgreSQL
+- Infra: Docker-Compose, IaaS, PaaS, On-Premise
+- CI/CD: Gitlab CI&CD, Jenkins
+- Distributed Version Control:Github, GitLab, SVN
+- Framework
+  1. FE: VueJS, NuxtJS
+  2. BE: Spring, Geoserver, ExpressJS
+- Library
+  1. FE: Jquery, D3, Leaflet
+  2. BE: Geotools
 
 ## 스터디 프로젝트
+- [모니터링 시스템](https://github.com/Hulkong/monitoring) (완료)
+- [개인블로그](https://github.com/Hulkong/hulkong.github.io) (진행중)
+- [Mukza](https://github.com/Hulkong/mzProject) (개발중)
+- [로또번호 예측 분석기](https://github.com/Hulkong/lottery_failure_guess) (초기단계)
 
 ## 프로젝트
 ### 자회사 신규서비스 인프라구축 / 유지보수(2020-10 ~)
