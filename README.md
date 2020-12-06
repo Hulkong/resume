@@ -10,19 +10,21 @@
 - 2016/11/01 ~ (3년 11개월)
 - 재직회사: [Openmate](http://www.openmate.co.kr)
 - 특이사항: 전문연구요원으로 복무중(전직가능, 2021.08 복무완료)
+- 자격증: 정보처리기
 
 ## 활동
 
 ## 스터디 프로젝트
 
 ## 프로젝트
-### 자회사 신규서비스 인프라구축 / 유지보수(2020-10 ~ 2020-11)
+### 자회사 신규서비스 인프라구축 / 유지보수(2020-10 ~)
 - 쿠버네티스 활용예정
-- 오토스케일, 로드밸런싱 적용예정
+- 오토스케일, 로드밸런싱 적용
+- Docker-Compose 적용
 - Gitlab CI/CD 연결
 - Backend: dJango
 - Frontend: NuxtJS
-- Webserver: Nginx
+- Reverse-Proxyserver: Nginx
 - [Data-on](https://data-on.co.kr)(미출시)
 
 ### 기초군사훈련(2020-09 ~ 2020-10)
