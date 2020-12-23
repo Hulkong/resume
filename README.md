@@ -28,7 +28,7 @@
   2. BE: Geotools
   
 ## 핵심역량
-### 1.	Frontend 프레임워크 개발
+### 1.	Frontend 개발
 1)	MVVM 프레임워크 VueJS 사용
 2)	Vuex, Vue-Router, Life-Cycle 이해
 3)	NuxtJS을 통해 SSR 렌더링 적용
@@ -49,7 +49,7 @@
     -	semantic element: 가독성을 위해 사용
 -	CSS3: opacity, border-radius, box-shadow, background-size, :nth-child, :not, transition, box-sizing, prefixes
 
-### 2.	Brontend 프레임워크 개발
+### 2.	Backend 개발
 1)	Spring: Restful API기반 개발, Mybatis, JPA
 2)	PHP: 메일링 기능 구현
 3)	NodeJS: 웹소켓 통신을 사용하여 모니터링 시스템 구축 및 운용
