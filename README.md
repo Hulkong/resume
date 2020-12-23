@@ -13,7 +13,7 @@
 - 자격증: 정보처리기사
 - 역할: Fullstack Web Programmer
 
-## Skill Tree
+## 스킬트리
 - FE: CSS3, HTML5, Javascript(ES3, ES5, ES6+)
 - BE: Java, JPA, Mybatis, JSTL, JSP, PHP, NodeJS
 - DB: MariaDB, postgreSQL
@@ -26,6 +26,44 @@
 - Library
   1. FE: Jquery, D3, Leaflet
   2. BE: Geotools
+  
+## 핵심역량
+### 1.	Frontend 프레임워크 개발
+1)	MVVM 프레임워크 VueJS 사용
+2)	Vuex, Vue-Router, Life-Cycle 이해
+3)	NuxtJS을 통해 SSR 렌더링 적용
+4)	Webpack + Babel을 통해 소스 번들링 및 최적화 적용
+5)	ES3, ES5, ES6 프로젝트 적용
+-	ES3: IE8버전을 지원해야 하는 공공기관 프로젝트에 적용
+-	ES5: 코드의 가독성을 위해 배열함수(map, filter, reduce, some, every)을 주로 사용함
+-	ES6: 
+    -	Arrow함수: 코드의 가독성과 this의 동적 바인딩을 제어하기 위해 사용 
+    - let/const: 주로 const를 사용하고, 재할당 필요한 변수는 let에 저장, var(사용X)
+    - modules: 스크립트 파일별 모듈단위로 관리하기 위해 사용
+    - promise: 콜백함수 지옥을 피할 때, 가독성을 위해 사용
+    - template literals: 가독성을 위해 사용
+    -	destructuring: 필요 변수만 할당하고 사용하고자 할 때, 가독성을 위해 사용
+6)	HTML5, CSS3 프로젝트 적용
+-	HTML5: 
+    - local / session Storage: 민감한 정보를 제외한 용량이 매우 적은 데이터 저장 시
+    -	semantic element: 가독성을 위해 사용
+-	CSS3: opacity, border-radius, box-shadow, background-size, :nth-child, :not, transition, box-sizing, prefixes
+
+### 2.	Brontend 프레임워크 개발
+1)	Spring: Restful API기반 개발, Mybatis, JPA
+2)	PHP: 메일링 기능 구현
+3)	NodeJS: 웹소켓 통신을 사용하여 모니터링 시스템 구축 및 운용
+
+### 3.	인프라 구축
+1)	Docker: docker-compose 이용하여 개발 / 운영환경 동기화
+2)	IaaS 구축: IwinV 업체 이용
+3)	데이터베이스 마이그레이션, 서버 퍼포먼스 최적화
+4)	On-Premise 서버 견적제안 ~ 구축
+5)	Reverse-Proxy Server 구축
+6)	유료 해외인증서 구입 ~ 설치
+7)	CI & CD 구축 ~ 운영: GitLab 이용
+8)  Kubernetes 특정 서비스 적용
+
 
 ## 스터디 프로젝트
 - [모니터링 시스템](https://github.com/Hulkong/monitoring) (완료)
