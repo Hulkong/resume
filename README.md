@@ -8,7 +8,7 @@
   - 한국산업기술대학교 컴퓨터공학 편입(2014.03 ~ 2016.02)
   - 화곡고등학교(2008 ~ 2011)
 - 2016/11/01 ~ (4년 2개월)
-- 재직회사: [Openmate](http://www.openmate.co.kr)
+- 재직회사: [Openmate](http://www.openmate.co.kr) / [Openmate-ON](https://openmate-on.co.kr)
 - 특이사항: 전문연구요원으로 복무중(전직가능, 2021.08 복무완료, 기초군사훈련(2020-09 ~ 2020-10))
 - 자격증: 정보처리기사
 - 역할: Fullstack Web Programmer
