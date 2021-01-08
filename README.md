@@ -89,8 +89,8 @@
 - FE: CSS3, HTML5, Javascript(ES3, ES5, ES6+)
 - BE: Java, JPA, Mybatis, JSTL, JSP, PHP, NodeJS
 - DB: MariaDB, postgreSQL
-- Infra: IaaS, PaaS, On-Premise, Kubernetes, Docker-Swarm
-- DevOpts: Gitlab CI&CD, Jenkins
+- Infra: IaaS, PaaS, On-Premise
+- DevOpts: Gitlab CI&CD, Jenkins, Kubernetes, Docker-Swarm
 - Distributed Version Control:Github, GitLab, SVN
 - Framework
   1. FE: VueJS, NuxtJS
