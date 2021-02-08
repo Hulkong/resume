@@ -9,7 +9,7 @@
   - 2021.08 복무완료
   - 기초군사훈련(2020-09 ~ 2020-10)
 - 자격증: 정보처리기사
-- 역할: Fullstack Web Programmer
+- 역할: DevOpts Engineer
 
 <br><br>
 
