@@ -148,15 +148,27 @@
 
 ## **프로젝트**
 
-### [(주)오픈메이트온 AWS 이관]
+### [(주)오픈메이트온 데이터온/트렌드온/세이프온 AWS 이관]
 
-1. 진행기간: 2021.02 ~ 2021.03
-2. 주요내용: 홈페이지, 스마트온 서비스 AWS로 이관
+1. 진행기간: 2021.03 ~ 진행중
+2. 주요내용: 데이터온/트렌드온/세이프온 서비스 AWS로 이관
 3. 프로젝트 인원 수: 1명(본인)
 4. 본인 포지션(기여도): 인프라(100%)
-5. 본인이 기여한 점: 홈페이지, 스마트온 AWS로 전체 인프라 이관
+5. 본인이 기여한 점: 데이터온/트렌드온/세이프온 AWS로 인프라 설계 및 이관
 6. 본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS
-7. 결과: [홈페이지](https://openmate-on.co.kr)(운영), [스마트온](https://smart-on.co.kr)(운영)
+7. 결과: [데이터온](https://data-on.co.kr), [트렌드온](https://trend-on.co.kr), [세이프온](https://safe-on.co.kr)
+
+<br>
+
+### [(주)오픈메이트온 홈페이지/스마트온 AWS 이관]
+
+1. 진행기간: 2021.02 ~ 2021.03
+2. 주요내용: 홈페이지/스마트온 서비스 AWS로 이관
+3. 프로젝트 인원 수: 1명(본인)
+4. 본인 포지션(기여도): 인프라(100%)
+5. 본인이 기여한 점: 홈페이지/스마트온 AWS로 인프라 설계 및 이관
+6. 본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS
+7. 결과: [홈페이지](https://openmate-on.co.kr), [스마트온](https://smart-on.co.kr)
 
 <br>
 
