@@ -156,7 +156,7 @@
 
 ## **프로젝트**
 ### 1. (주)오픈메이트온 세이프온 AWS 이관    
-  진행기간: 2021.04 ~ 진행중
+  진행기간: 2021.04 ~ 진행중  
   주요내용: 세이프온 서비스 AWS로 이관    
   프로젝트 인원 수: 1명(본인)    
   본인 포지션(기여도): 인프라(100%)  
@@ -173,7 +173,7 @@
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 트렌드온 AWS로 인프라 설계 및 이관  
   본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS  
-  결과: [트렌드온](https://trend-on.co.kr)
+  결과: [트렌드온](https://trend-on.co.kr)  
 
 <br>
 
@@ -183,7 +183,7 @@
   프로젝트 인원 수: 1명(본인)    
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 데이터온 AWS로 인프라 설계 및 이관  
-  본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS, SQS
+  본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS, SQS  
   결과: [데이터온](https://data-on.co.kr)
 
 <br>
