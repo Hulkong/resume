@@ -32,10 +32,10 @@
 
 <br>
 
-### 1. 주요 업무
+## 주요 업무
 
-- 신규서비스 프론트엔드 개발 및 고도화
-- 기존서비스 RestfulAPI 개발 및 고도화
+- 서비스 프론트엔드 개발 및 고도화
+- 서비스 백엔드 개발 및 고도화
 - 서비스 클라우드 인프라 구축 및 운영
 - 유지보수
 - postgreSQL, MariaDB기반 서비스 데이터 정기 업데이트
@@ -43,11 +43,14 @@
 - 사내망 인프라 구축
 - 직원 PC, 서버 견적작성, 구입, 환경세팅
 
-### 2. 주요 성과
+<br><br>
+
+## 주요 성과
 
 - MVVM프레임워크 적용(VueJS)
 - SSR 적용(NuxtJS)
 - 코드 리팩토링
+- 웹 퍼포먼스 최적화(Frontend, Backend, DB, Network)
 - 마이그레이션(es3 -> es6이상, HTML5, CSS3)
 - Webpack + Babel 자동화 적용
 - 지도 타일이미지 성능 측정 및 최적화
@@ -63,10 +66,13 @@
 - 브라우저 호환성 지원여부에 따라 ES3 ~ ES6, HTML5, CSS3 적용
 - Typescript 적용
 - Webpack + Babel 자동화 도구 사용
-- Spring기반 RestfulAPI 개발
+- Spring기반 API서버 개발
+- dJango기반 API서버 개발
+- ExpressJS기반 API서버 개발
 - ExpressJS기반 소규모 모니터링시스템 구축 및 운영
 - 데브옵스기반 클라우드 인프라 구축 및 운영
 - 유/무료 SSL 인증서 적용
+- 메시지큐 기반 비동기 프로세스 적용(rabbitMQ, AWS SQS)
 
 <br><br>
 
@@ -88,13 +94,15 @@
 
 - AWS 클라우드 플랫폼 기반 인프라 구축: ECS(EC2기반), RDS, Route53, CloudFront, S3, ELB, IAM, VPC 등 
 - 온프레미스 인프라 견적 및 구축: 내부망 리눅스기반 개발서버, NAS, GitLab
-- 지속적인 CI & CD 구축: GitLab CI & CD, GitLab Docker registry, Blue-Green 배포
+- 지속적인 CI & CD 구축: 
+  1. GitLab CI & CD, GitLab Docker registry, Blue-Green Update
+  2. AWS CodeCommit, CodeBuild, CodeDeploy, CodePipeline, Rolling Update
 - 컨테이너 기반 인프라 구성: ECS, docker, docker-compose
-- REST API 개발: Spring
+- REST API 개발: Spring, dJango or Flask, ExpressJS
 - NoSQL기반 대용량 API 데이터 저장: MongoDB
 - 데이터베이스: PostgreSQL, MongoDB
-- 백엔드: Spring, ExpressJS
-- 프론트엔드: NuxtJS, Javascript(es3~es7), HTML5, CSS3, Typescript 
+- 백엔드: Spring, ExpressJS, dJango or Flask
+- 프론트엔드: NuxtJS, VueJS, Javascript(es3~es7), HTML5, CSS3, Typescript 
 
 
 <br><br>
