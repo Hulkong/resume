@@ -162,7 +162,7 @@
   본인 포지션(기여도): 개발(100%), 인프라(100%)  
   본인이 기여한 점: 데이터 업데이트 자동화  
   본인이 사용한 스킬: docker, python, celery, SQS, ECS, CodeBuild, CodePipeline, SNS  
-  결과: [지오서버](https://dev.openmate-on.com:8002/geoserver)  
+  결과: 월간 Nice, KT 데이터 테스트 및 운영 데이터베이스 자동 업데이트  
   
 <br>
 
