@@ -1,5 +1,12 @@
 # **경력기술서**
 
+## **포트폴리오**
+1. [AWS 마이그레이션 제안서](https://www.notion.so/AWS-d1075446aac3415badf67be88e6dd33b)
+2. [AWS 서비스, CI&CD 인프라 구조도](https://www.notion.so/AWS-CI-CD-70b28457744345978d89b319721a2cc0)
+3. [이메일 스푸핑 공격 방어](https://www.notion.so/ETC-0804354d36f04c4c8517bdedc3af19d8)
+
+<br><br>
+
 ## **본인소개**
 
 - 이름: 김용현
@@ -9,7 +16,7 @@
   - 2018.08.24 ~ 2021.08.24
   - 기초군사훈련(2020-09 ~ 2020-10)
 - 자격증: 정보처리기사
-- 역할: DevOpts Engineer
+- 역할: Cloud Engineer or DevOpts Engineer
 
 <br><br>
 
