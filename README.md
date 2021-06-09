@@ -4,6 +4,8 @@
 1. [AWS 마이그레이션 제안서](https://www.notion.so/AWS-d1075446aac3415badf67be88e6dd33b)
 2. [AWS 서비스, CI&CD 인프라 구조도](https://www.notion.so/AWS-CI-CD-70b28457744345978d89b319721a2cc0)
 3. [이메일 스푸핑 공격 방어](https://www.notion.so/ETC-0804354d36f04c4c8517bdedc3af19d8)
+4. [AWS 오픈메이트온 홈페이지 마이그레이션](https://www.notion.so/AWS-568592d356bd479d947a97f28939d674)
+5. [AWS 오픈메이트온 스마트온 서비스 마이그레이션](https://www.notion.so/AWS-e58d5f9351244ea8aa5aacd3ccdc8fe8)
 
 <br><br>
 
