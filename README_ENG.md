@@ -1,6 +1,6 @@
-# **자기소개서**
+# **Resume**
 
-## **프로젝트**
+## **Work experience**
 ---
 ### Trend on service regular monthly update batch program production and scheduling application  
 Progress period: 2021.05 ~ Proceeding  
