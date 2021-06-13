@@ -206,7 +206,7 @@
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 컨테이너 유지관리를 위한 구조 변경  
   본인이 사용한 스킬: docker, ECS, ECR  
-  결과: [지오서버](https://dev.openmate-on.com:8002/geoserver)  
+  결과: [Geoserver(https://dev.openmate-on.com:8002/geoserver)](https://dev.openmate-on.com:8002/geoserver)  
   
 <br>
 
@@ -221,47 +221,49 @@
   
 <br>
 
-### (주)오픈메이트온 세이프온 AWS 이관    
+### 세이프온 서비스 AWS로 이관    
   진행기간: 2021.04 ~ 2021.04  
   주요내용: 세이프온 서비스 AWS로 이관    
   프로젝트 인원 수: 1명(본인)    
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 세이프온 AWS로 인프라 설계 및 이관  
   본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS  
-  결과: [세이프온](https://safe-on.co.kr) 
+  결과: [Safe-On(https://safe-on.co.kr)](https://safe-on.co.kr) 
 
 <br>
 
-### (주)오픈메이트온 트렌드온 AWS 이관    
+### 트렌드온 서비스 AWS로 이관    
   진행기간: 2021.04 ~ 2021.04    
   주요내용: 트렌드온 서비스 AWS로 이관    
   프로젝트 인원 수: 1명(본인)    
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 트렌드온 AWS로 인프라 설계 및 이관  
   본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS  
-  결과: [트렌드온](https://trend-on.co.kr)  
+  결과: [Trend-On(https://trend-on.co.kr)](https://trend-on.co.kr)  
 
 <br>
 
-### (주)오픈메이트온 데이터온 AWS 이관    
+### 데이터온 서비스 AWS로 이관    
   진행기간: 2021.03 ~ 2021.03    
   주요내용: 데이터온 서비스 AWS로 이관    
   프로젝트 인원 수: 1명(본인)    
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 데이터온 AWS로 인프라 설계 및 이관  
   본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS, SQS  
-  결과: [데이터온](https://data-on.co.kr)
+  결과: [Data-On(https://data-on.co.kr)](https://data-on.co.kr)
 
 <br>
 
-### (주)오픈메이트온 홈페이지/스마트온 AWS 이관  
+### 홈페이지/스마트온 서비스 AWS로 이관  
   진행기간: 2021.02 ~ 2021.02 
   주요내용: 홈페이지/스마트온 서비스 AWS로 이관  
   프로젝트 인원 수: 1명(본인)  
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 홈페이지/스마트온 AWS로 인프라 설계 및 이관  
-  본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS  
-  결과: [홈페이지](https://openmate-on.co.kr), [스마트온](https://smart-on.co.kr)  
+  본인이 사용한 스킬: IAM, Route53, CloudFront, ACM, S3, ALB, ECS(EC2기반), ECR, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, RDS, SQS  
+  결과: 
+   - [Homepage(https://openmate-on.co.kr)](https://openmate-on.co.kr)
+   - [Smart-On(https://smart-on.co.kr)](https://smart-on.co.kr)  
 
 <br>
 
@@ -276,51 +278,51 @@
 
 <br>
 
-### (주)오픈메이트온 신규서비스 개발 / 인프라구축  
+### 신규서비스 개발 / 인프라구축  
   진행기간: 2020.10 ~ 2020.12  
   주요내용: 공공데이터기반 누구나 쉽게 찾고 활용하는 데이터 플랫폼  
   프로젝트 인원 수: 8명  
   본인 포지션(기여도): 프론트엔드(40%), 인프라(100%), 유지보수(25%)  
   본인이 기여한 점: 프론트엔드 개발, AWS PaaS기반 인프라 구축, 대용량 데이터(CSV) API 기능 개발  
   본인이 사용한 스킬: ECS(EC2기반), RDS, Route53, CloudFront, S3, ELB, IAM, VPC, NuxtJS, Javascript, HTML, CSS, GitLab Ci & CD, dJango, MongoDB  
-  결과: [데이터온](https://data-on.co.kr)
+  결과: [Data-On(https://data-on.co.kr)](https://data-on.co.kr)
 
 <br>
 
-### (주)오픈메이트온 서비스 리뉴얼  
+### 서비스 리뉴얼  
   진행기간: 2020.06 ~ 2020.09  
   주요내용: 서비스 고도화  
   프로젝트 인원 수: 2명  
   본인 포지션(기여도): 프론트엔드(100%), 데이터베이스(100%), 유지보수(50%)  
   본인이 기여한 점: 프론트엔드 개발, 데이터업데이트  
   본인이 사용한 스킬: HTML, Javascript(es3), Jquery, CSS, D3, postgreSQL, Docker  
-  결과: [트렌드온](https://trend-on.co.kr)
+  결과: [Trend-On(https://trend-on.co.kr)](https://trend-on.co.kr)
 
 <br>
   
-### (주)오픈메이트온 홈페이지 리뉴얼  
+### 홈페이지 리뉴얼  
   진행기간: 2020.05 ~ 2020.06  
   주요내용: (주)오픈메이트온 홈페이지 리뉴얼  
   프로젝트 인원 수: 2명  
   본인 포지션(기여도): 프론트엔드(100%), 인프라(100%), 유지보수(100%)  
   본인이 기여한 점: 프론트엔드 개발, 클라우드 IaaS 기반 인프라 구축, SPA 구조적용, 모바일 지원, SSL 적용  
   본인이 사용한 스킬: HTML5, Javascript(es5 이상), Jquery, CSS3  
-  결과: [홈페이지](https://openmate-on.co.kr)
+  결과: [Homepage(https://openmate-on.co.kr)](https://openmate-on.co.kr) 
   
 <br>
   
-### (주)오픈메이트온 4.15 총선 페이지 개발  
+### 4.15 총선 페이지 개발  
   진행기간: 2020.04 ~ 2020.04  
   주요내용: 4.15 총선을 위한 해당 지역구의 후보자 정보 제공 서비스  
   프로젝트 인원 수: 3명  
   본인 포지션(기여도): 프론트엔드(50%), 유지보수(50%)  
   본인이 기여한 점: 프론트엔드 개발, SSL적용, Google Analytics적용, 모바일 지원  
   본인이 사용한 스킬: VueJS, Javascript(es5 이상), LeafletJS, D3  
-  결과: [스마트온](https://smart-on.co.kr)(모바일에서 확인)  
+  결과: [Smart-On(https://smart-on.co.kr, 모바일에서 확인)](https://smart-on.co.kr)  
   
 <br>
 
-### (주)오픈메이트온 유지보수  
+### 유지보수  
   진행기간: 2020.02 ~ 2020.03  
   주요내용: (주)오픈메이트온 내부서비스 월 데이터 정기 업데이트, 웹 어플리케이션 유지보수  
   프로젝트 인원 수: 2명  
@@ -330,25 +332,25 @@
 
 <br>
 
-### (주)오픈메이트온 신규 서비스 인프라 환경 구축  
+### 신규 서비스 인프라 환경구축  
   진행기간: 2019.10 ~ 2020.01  
   주요내용: 개발 및 운영 서비스 인프라 환경 구축  
   프로젝트 인원 수: 1명  
   본인 포지션(기여도): 인프라(100%), 유지보수(100%)  
   본인이 기여한 점: 클라우드 IaaS 기반 인프라 구축, GitLab 구축, Reverse Proxy Server 구축, On-premise 인프라 구축(개발용), Private Docker Repository 구축  
   본인이 사용한 스킬: Docker, NginX, Apache  
-  결과: [깃랩](https://git.openmate-on.co.kr), 개발 & 운영 인프라 동기화  
+  결과: [GitLab(https://git.openmate-on.co.kr)](https://git.openmate-on.co.kr), 개발 & 운영 인프라 동기화  
 
 <br>
 
-### (주)오픈메이트온 신규 서비스 개발  
+### 신규 서비스 개발  
   진행기간: 2019.10 ~ 2020.01  
   주요내용: 공공데이터 기반으로 빅데이터&인공지능으로 진단하고 처방하는 도시분석 서비스  
   프로젝트 인원 수: 6명  
   본인 포지션: 프론트엔드(100%), 인프라(100%), 유지보수(50%)  
   본인이 기여한 점: 프론트엔드 개발, 클라우드 IaaS 기반 인프라 구축, SSL 적용  
   본인이 사용한 스킬: VueJS, Javascript(es5 이상), HTML, CSS, Vuetify  
-  결과: [스마트온](https://smart-on.co.kr)
+  결과: [Smart-On(https://smart-on.co.kr)](https://smart-on.co.kr)
   
 <br>
 
@@ -363,7 +365,7 @@
 
 <br>
   
-### (주)오픈메이트온 임시 홈페이지 개발  
+### 임시 홈페이지 개발  
   진행기간: 2019.08 ~ 2019.09  
   주요내용: 임시 홈페이지 개발  
   프로젝트 인원 수: 1명  
@@ -395,39 +397,7 @@
 
 <br>
 
-### (주)오픈메이트 서비스 모니터링 시스템 개발  
-  진행기간: 2018.11 ~ 2018.11  
-  주요내용: 모든 서비스 모니터링  
-  프로젝트 인원 수: 1명  
-  본인 포지션(기여도): 프론트엔드(100%), 백엔드(100%), 유지보수(100%)  
-  본인이 기여한 점: 프론트엔드 개발, 백엔드 개발  
-  본인이 사용한 스킬: ExpressJS, Javascript, HTML, Bootstrap  
-  결과: 수동적인 응대에서 실시간 응대로 변경함으로써 응대시간 단축  
-
-<br>
-
-### 국가정보자원관리원 로그적재 Restful API 개발  
-  진행기간: 2018.05 ~ 2018.06  
-  주요내용: 주소정재 로그데이터 실시간 적재  
-  프로젝트 인원 수: 1명  
-  본인 포지션(기여도): 프론트엔드(100%), 백엔드(100%), 유지보수(100%)  
-  본인이 기여한 점: 프론트엔드 개발, 백엔드 개발  
-  본인이 사용한 스킬: Spring, Javascript, HTML  
-
-<br>
-
-### (주)오픈메이트 내부서비스 Restful API 개발  
-  진행기간: 2018.03 ~ 2018.05  
-  주요내용: 서비스 데이터 Restful 기반 API제공  
-  프로젝트 인원 수: 1명  
-  본인 포지션(기여도): 백엔드(100%), 유지보수(100%)  
-  본인이 기여한 점: 백엔드 개발  
-  본인이 사용한 스킬: Spring, Mybatis, postgreSQL  
-  결과: 내부서비스 사이트 데이터 납품(대전마케팅공사)  
-
-<br>
-
-### (주)오픈메이트 유지보수  
+### 유지보수  
   진행기간: 2017.04 ~ 2019.05  
   주요내용: 자사와 계약된 공기업/사기업/내부서비스 유지보수, 데이터 정기 업데이트  
   프로젝트 인원 수: 8명  
@@ -438,9 +408,41 @@
 
 <br>
 
-### (주)오픈메이트 WMS 솔루션 제품 개발  
+### 서비스 모니터링 서버 개발  
+  진행기간: 2018.11 ~ 2018.11  
+  주요내용: 모든 서비스 모니터링  
+  프로젝트 인원 수: 1명  
+  본인 포지션(기여도): 프론트엔드(100%), 백엔드(100%), 유지보수(100%)  
+  본인이 기여한 점: 프론트엔드 개발, 백엔드 개발  
+  본인이 사용한 스킬: ExpressJS, Javascript, HTML, Bootstrap  
+  결과: 수동적인 응대에서 실시간 응대로 변경함으로써 응대시간 단축  
+
+<br>
+
+### 로그데이터 적재 API 개발  
+  진행기간: 2018.05 ~ 2018.06  
+  주요내용: 주소정제 로그데이터 실시간 적재  
+  프로젝트 인원 수: 1명  
+  본인 포지션(기여도): 프론트엔드(100%), 백엔드(100%), 유지보수(100%)  
+  본인이 기여한 점: 프론트엔드 개발, 백엔드 개발  
+  본인이 사용한 스킬: Spring, Javascript, HTML  
+
+<br>
+
+### 내부서비스 Restful API 개발  
+  진행기간: 2018.03 ~ 2018.05  
+  주요내용: 서비스 데이터 Restful 기반 API제공  
+  프로젝트 인원 수: 1명  
+  본인 포지션(기여도): 백엔드(100%), 유지보수(100%)  
+  본인이 기여한 점: 백엔드 개발  
+  본인이 사용한 스킬: Spring, Mybatis, postgreSQL  
+  결과: 내부서비스 사이트 데이터 납품(대전마케팅공사)  
+
+<br>
+
+### Web Map Service(WMS) 솔루션 제품 개발  
   진행기간: 2016.11 ~ 2017.03  
-  주요내용: WMS 솔루션 제작  
+  주요내용: Web Map Service(WMS) 솔루션 제작  
   프로젝트 인원 수: 5명  
   본인 포지션(기여도): 프론트엔드(10%)  
   본인이 기여한 점: 프론트엔드 개발, 서버리소스 모니터링페이지 제작, API문서페이지 제작   
