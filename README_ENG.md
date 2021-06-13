@@ -35,7 +35,8 @@ Result: Secure 3 months operating expenses
 
 <br>
 
-### Container-based Geoserver constructionProgress Period: 2021.05 ~ 2021.05  
+### Container-based Geoserver construction  
+Progress Period: 2021.05 ~ 2021.05  
 Main Content: Change the existing installation type Geoserver to container-based  
 Number of Participants in the project: 1 person(Me)  
 Position(Contribution): In charge of infrastructure(100%)  
@@ -45,7 +46,8 @@ Result: Geoserver(https://dev.openmate-on.com:8002/geoserver/)
   
 <br>
 
-### Apply data crawling program scheduling  Progress Period: 2021.05 ~ 2021.05
+### Apply data crawling program scheduling  
+Progress Period: 2021.05 ~ 2021.05  
 Main Content: Apply scheduling to the program for collecting corona data of SmartOn service and push a message to the Slack channel when an error occurs  
 Number of Participants in the project: 1 person(Me)  
 Position(Contribution): development(100%), infrastructure(100%)  
