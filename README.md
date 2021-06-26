@@ -39,25 +39,35 @@
 ---
 | 회사명                                                                           |            근무기간             |    소속부서 / 직위    |               담당업무               |
 | :------------------------------------------------------------------------------- | :-----------------------------: | :-------------------: | :----------------------------------: |
-| [Openmate](http://www.openmate.co.kr) / [Openmate-ON](https://openmate-on.co.kr) | 2016/11/01 ~ 현재(약 4년 4개월) | 운영사업팀/책임연구원 | 서비스 클라우드 인프라(AWS) 구축 및 개발지원, 서비스 유지보수, 사내 인프라 구축 및 IT업무 지원 |
+| [Openmate](http://www.openmate.co.kr) / [Openmate-ON](https://openmate-on.co.kr) | 2016/11/01 ~ 현재(5년차) | 운영사업팀/책임연구원 | 서비스 클라우드 인프라(AWS) 구축 및 개발지원, 서비스 유지보수, 사내 인프라 구축 및 IT업무 지원 |
 
 <br>
 
 ## 주요 업무
 ---
-- 서비스 프론트엔드 개발 및 고도화
+- 서비스 클라우드 인프라 설계, 구축, 운영
+- 데브옵스 인프라 구축 및 운영
+- 사내망 서버(GitLab, NAS, 개발기WAS/DB) 구축
 - 서비스 백엔드 개발 및 고도화
-- 서비스 클라우드 인프라 구축 및 운영
+- 서비스 프론트엔드 개발 및 고도화
 - 유지보수
 - postgreSQL, MariaDB기반 서비스 데이터 정기 업데이트
-- 데브옵스 인프라 구축 및 운영
-- 사내망 인프라 구축
 - 직원 PC, 서버 견적작성, 구입, 환경세팅
 
 <br><br>
 
 ## 주요 성과
 ---
+- AWS(PaaS, SaaS) 인프라로 마이그레이션
+- AWS기반 개발기/스테이징 서버 구축
+- AWS기반 CI&CD 파이프라인 구축
+- Docker 컨테이너 적용
+- 모놀리틱 구조를 MSA 아키텍쳐로 변경
+- CDN 서비스 이용
+- Load-Balancing 서비스 이용
+- DB Active-StandBy 구성
+- DB Master-Slave 구성
+- 메시지큐 기반 비동기 프로세스 적용(rabbitMQ, AWS SQS)
 - MVVM프레임워크 적용(VueJS)
 - SSR 적용(NuxtJS)
 - 코드 리팩토링
@@ -66,24 +76,18 @@
 - Webpack + Babel 자동화 적용
 - 지도 타일이미지 성능 측정 및 최적화
 - 웹사이트 성능 최적화(SSR, lazy-loading, defer, 재귀함수 지양)
-- SSL 적용
+- ExpressJS기반 소규모 모니터링시스템 구축 및 운영
+- 유/무료 SSL 인증서 적용
 
 <br><br>
 
 ## **경력 요약**
 ---
-- MVVM 프레임워크(VueJS) 기반 프론트엔드 개발
-- SSR 적용(NuxtJS)
-- 브라우저 호환성 지원여부에 따라 ES3 ~ ES6, HTML5, CSS3 적용
-- Typescript 적용
-- Webpack + Babel 자동화 도구 사용
+- AWS 기반 클라우드 인프라 설계, 구축, 운영
+- 서버 구축, 운영
 - Spring기반 API서버 개발
-- dJango기반 API서버 개발
-- ExpressJS기반 API서버 개발
-- ExpressJS기반 소규모 모니터링시스템 구축 및 운영
-- 데브옵스기반 클라우드 인프라 구축 및 운영
-- 유/무료 SSL 인증서 적용
-- 메시지큐 기반 비동기 프로세스 적용(rabbitMQ, AWS SQS)
+- Spring, dJango, ExpressJS 유지보수
+- NuxtJS기반 프론트엔드 개발지원
 
 <br><br>
 
@@ -113,14 +117,31 @@
 - NoSQL기반 대용량 API 데이터 저장: MongoDB
 - 데이터베이스: PostgreSQL, MongoDB
 - 백엔드: Spring, ExpressJS, dJango or Flask
-- 프론트엔드: NuxtJS, VueJS, Javascript(es3~es7), HTML5, CSS3, Typescript 
+- 프론트엔드: NuxtJS, VueJS, Javascript(es3~es7), HTML5, CSS3 
 
 
 <br><br>
 
 ## **핵심역량**
 ---
-### 1) Frontend 개발
+### 1) 인프라 구축
+
+1) AWS PaaS기반 인프라 구축
+1) Docker: docker-compose 이용하여 개발 / 운영환경 동기화
+2) IaaS 구축: IwinV 업체 이용
+3) 데이터베이스 마이그레이션, 서버 퍼포먼스 최적화
+4) On-Premise 서버 견적제안 ~ 구축
+5) Reverse-Proxy Server 구축
+6) 유료 해외인증서 구입 ~ 설치
+7) CI & CD 구축 ~ 운영: GitLab 이용
+
+### 2) Backend 개발
+
+1) Spring: Restful API기반 개발, Mybatis, JPA
+2) PHP: 메일링 기능 구현
+3) NodeJS: 웹소켓 통신을 사용하여 모니터링 시스템 구축 및 운용
+
+### 3) Frontend 개발
 
 1) MVVM 프레임워크 VueJS 사용
 2) Vuex, Vue-Router, Life-Cycle 이해
@@ -143,24 +164,6 @@
   - local / session Storage: 민감한 정보를 제외한 용량이 매우 적은 데이터 저장 시
   - semantic element: 가독성을 위해 사용
 - CSS3: opacity, border-radius, box-shadow, background-size, :nth-child, :not, transition, box-sizing, prefixes
-
-### 2) Backend 개발
-
-1) Spring: Restful API기반 개발, Mybatis, JPA
-2) PHP: 메일링 기능 구현
-3) NodeJS: 웹소켓 통신을 사용하여 모니터링 시스템 구축 및 운용
-
-### 3) 인프라 구축
-
-1) AWS PaaS기반 인프라 구축
-1) Docker: docker-compose 이용하여 개발 / 운영환경 동기화
-2) IaaS 구축: IwinV 업체 이용
-3) 데이터베이스 마이그레이션, 서버 퍼포먼스 최적화
-4) On-Premise 서버 견적제안 ~ 구축
-5) Reverse-Proxy Server 구축
-6) 유료 해외인증서 구입 ~ 설치
-7) CI & CD 구축 ~ 운영: GitLab 이용
-8) Kubernetes 특정 서비스 적용
 
 <br><br>
 
