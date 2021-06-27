@@ -61,9 +61,11 @@
 - AWS(PaaS, SaaS) 인프라로 마이그레이션
 - AWS기반 개발기/스테이징 서버 구축
 - AWS기반 CI&CD 파이프라인 구축
-- Docker 컨테이너 적용
-- 모놀리틱 구조를 MSA 아키텍쳐로 변경
+- 컨테이너 기반 설계
+- Monolithic, MSA 아키텍쳐 설계
+- DNS 서비스 이용
 - CDN 서비스 이용
+- Object Storage 이용
 - Load-Balancing 서비스 이용
 - DB Active-StandBy 구성
 - DB Master-Slave 구성
@@ -88,6 +90,8 @@
 - Spring기반 API서버 개발
 - Spring, dJango, ExpressJS 유지보수
 - NuxtJS기반 프론트엔드 개발지원
+- 데이터 업데이트
+- 유지보수
 
 <br><br>
 
@@ -107,7 +111,7 @@
 
 ## **업무관련 보유기술**
 ---
-- AWS 클라우드 플랫폼 기반 인프라 구축: ECS(EC2기반), RDS, Route53, CloudFront, S3, ELB, IAM, VPC 등 
+- AWS 클라우드 플랫폼 기반 인프라 구축: Route53, CloudFront, S3, ELB, ECS(EC2 + Fargate), ECR, EC2, RDS, SQS, SNS, IAM, VPC
 - 온프레미스 인프라 견적 및 구축: 내부망 리눅스기반 개발서버, NAS, GitLab
 - 지속적인 CI & CD 구축: 
   1. GitLab CI & CD, GitLab Docker registry, Blue-Green Update
@@ -126,18 +130,18 @@
 ---
 ### 1) 인프라 구축
 
-1) AWS PaaS기반 인프라 구축
-1) Docker: docker-compose 이용하여 개발 / 운영환경 동기화
-2) IaaS 구축: IwinV 업체 이용
-3) 데이터베이스 마이그레이션, 서버 퍼포먼스 최적화
-4) On-Premise 서버 견적제안 ~ 구축
-5) Reverse-Proxy Server 구축
-6) 유료 해외인증서 구입 ~ 설치
-7) CI & CD 구축 ~ 운영: GitLab 이용
+1) AWS IaaS, PaaS, SaaS 기반 인프라 구축
+2) 서비스 컨테이너화
+3) MSA 아키텍쳐 설계
+5) 데이터베이스 마이그레이션, 퍼포먼스 최적화
+6) On-Premise 서버 견적제안 ~ 구축
+7) Server 구축
+8) 유료 해외인증서 구입 ~ 설치
+9) CI & CD 구축 ~ 운영
 
 ### 2) Backend 개발
 
-1) Spring: Restful API기반 개발, Mybatis, JPA
+1) Spring: Restful API기반 개발, Mybatis
 2) PHP: 메일링 기능 구현
 3) NodeJS: 웹소켓 통신을 사용하여 모니터링 시스템 구축 및 운용
 
