@@ -8,6 +8,7 @@
 4. [오픈메이트온-이메일 스푸핑 공격 방어](https://www.notion.so/ETC-0804354d36f04c4c8517bdedc3af19d8)
 5. [오픈메이트온-홈페이지 AWS 마이그레이션](https://www.notion.so/AWS-568592d356bd479d947a97f28939d674)
 6. [오픈메이트온-스마트온 서비스 AWS 마이그레이션](https://www.notion.so/AWS-e58d5f9351244ea8aa5aacd3ccdc8fe8)
+7. [오픈메이트온-IAM 구성도](https://www.notion.so/AWS-IAM-6f352ff265bf455797931daee58e0859)
 
 <br><br>
 
