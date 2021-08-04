@@ -2,13 +2,18 @@
 
 ## **포트폴리오**
 ---
-1. [오픈메이트온-AWS 마이그레이션 제안서](https://www.notion.so/AWS-d1075446aac3415badf67be88e6dd33b)
-2. [오픈메이트온-인프라구조](https://www.notion.so/AWS-CI-CD-70b28457744345978d89b319721a2cc0)
-3. [오픈메이트온-CI&CD 인프라구조](https://www.notion.so/CI-CD-ced9d184f3d74ca085de7ea5caeba64b)
-4. [오픈메이트온-이메일 스푸핑 공격 방어](https://www.notion.so/ETC-0804354d36f04c4c8517bdedc3af19d8)
-5. [오픈메이트온-홈페이지 AWS 마이그레이션](https://www.notion.so/AWS-568592d356bd479d947a97f28939d674)
-6. [오픈메이트온-스마트온 서비스 AWS 마이그레이션](https://www.notion.so/AWS-e58d5f9351244ea8aa5aacd3ccdc8fe8)
-7. [오픈메이트온-IAM 구성도](https://www.notion.so/AWS-IAM-6f352ff265bf455797931daee58e0859)
+1. [오픈메이트온-AWS 마이그레이션 제안서](https://hulkong.notion.site/AWS-d1075446aac3415badf67be88e6dd33b)
+2. [오픈메이트온-서비스 인프라구조](https://hulkong.notion.site/618deb108d1940af854c278daf16ebaa)
+3. [오픈메이트온-CI&CD 인프라구조](https://hulkong.notion.site/CI-CD-1b2a2399e09a4a96a496ce6af38aa9a0)
+4. [오픈메이트온-이메일 스푸핑 공격 방어](https://hulkong.notion.site/ETC-0804354d36f04c4c8517bdedc3af19d8)
+5. [오픈메이트온-홈페이지 AWS 마이그레이션](https://hulkong.notion.site/AWS-934a957412204a08928448fb63866a05)
+6. [오픈메이트온-스마트온 서비스 AWS 마이그레이션](https://hulkong.notion.site/AWS-4077a240ce39478396f6ad4e4c571686)
+7. [오픈메이트온-IAM 구성도](https://hulkong.notion.site/AWS-IAM-0f66285b72564a0ca735c6bb1d0392dc)
+8. [오픈메이트온-서버 & 서비스 이용목록](https://hulkong.notion.site/be9bb2776fd24c5e9f216960fd272af3)
+9. [오픈메이트온-데이터베이스 개발기 구축](https://hulkong.notion.site/INFRA-984f84d83e8f49fc9cc7481cc4cc5b50)
+10. [오픈메이트온-설치형 GitLab 구축](https://hulkong.notion.site/INFRA-GitLab-df02d6a4a46d4972bf56ad1880eebba9)
+11. [오픈메이트온-배포 프로세스](https://hulkong.notion.site/430c157d75f746d59d8770d29a2be3c2)
+12. [오픈메이트온-서비스별 APP or WEB 구성](https://hulkong.notion.site/Service-APP-or-WEB-1209222b82104c07b66fd586188df9af)
 
 <br><br>
 
