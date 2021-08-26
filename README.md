@@ -5,15 +5,18 @@
 1. [오픈메이트온-서비스 인프라구조](https://hulkong.notion.site/618deb108d1940af854c278daf16ebaa)
 4. [오픈메이트온-CI&CD 인프라구조](https://hulkong.notion.site/CI-CD-1b2a2399e09a4a96a496ce6af38aa9a0)
 10. [오픈메이트온-IAM 구성도](https://hulkong.notion.site/AWS-IAM-0f66285b72564a0ca735c6bb1d0392dc)
-11. [오픈메이트온-서버 & 서비스 이용목록](https://hulkong.notion.site/be9bb2776fd24c5e9f216960fd272af3)
+11. [오픈메이트온-ElasticSearch 구축](https://hulkong.notion.site/ElasticSearch-7cee719f340d433eb6bc8ddccaac433e)
+12. [오픈메이트온-MongoDB 구축](https://hulkong.notion.site/Data-ON-MongoDB-58cc19dada934531aa10bdbb171b1a59)
+13. [오픈메이트온-서버 & 서비스 이용목록](https://hulkong.notion.site/be9bb2776fd24c5e9f216960fd272af3)
 14. [오픈메이트온-배포 프로세스](https://hulkong.notion.site/430c157d75f746d59d8770d29a2be3c2)
-13. [오픈메이트온-AWS 마이그레이션 제안서](https://hulkong.notion.site/AWS-d1075446aac3415badf67be88e6dd33b)
-14. [오픈메이트온-스마트온 서비스 AWS 마이그레이션](https://hulkong.notion.site/AWS-4077a240ce39478396f6ad4e4c571686)
-15. [오픈메이트온-홈페이지 AWS 마이그레이션](https://hulkong.notion.site/AWS-934a957412204a08928448fb63866a05)
-16. [오픈메이트온-이메일 스푸핑 공격 방어](https://hulkong.notion.site/ETC-0804354d36f04c4c8517bdedc3af19d8)
-17. [오픈메이트온-데이터베이스 개발기 구축](https://hulkong.notion.site/INFRA-984f84d83e8f49fc9cc7481cc4cc5b50)
-18. [오픈메이트온-설치형 GitLab 구축](https://hulkong.notion.site/INFRA-GitLab-df02d6a4a46d4972bf56ad1880eebba9)
-19. [오픈메이트온-서비스별 APP or WEB 구성](https://hulkong.notion.site/Service-APP-or-WEB-1209222b82104c07b66fd586188df9af)
+15. [오픈메이트온-AWS 마이그레이션 제안서](https://hulkong.notion.site/AWS-d1075446aac3415badf67be88e6dd33b)
+16. [오픈메이트온-스마트온 서비스 AWS 마이그레이션](https://hulkong.notion.site/AWS-4077a240ce39478396f6ad4e4c571686)
+17. [오픈메이트온-홈페이지 AWS 마이그레이션](https://hulkong.notion.site/AWS-934a957412204a08928448fb63866a05)
+18. [오픈메이트온-이메일 스푸핑 공격 방어](https://hulkong.notion.site/ETC-0804354d36f04c4c8517bdedc3af19d8)
+19. [오픈메이트온-데이터베이스 개발기 구축](https://hulkong.notion.site/INFRA-984f84d83e8f49fc9cc7481cc4cc5b50)
+20. [오픈메이트온-설치형 GitLab 구축](https://hulkong.notion.site/INFRA-GitLab-df02d6a4a46d4972bf56ad1880eebba9)
+21. [오픈메이트온-데이터업데이트 자동 업데이트 프로그램 개발](https://hulkong.notion.site/Trend-ON-1b82631ea1344beba2daf00bb3d3257d)
+22. [오픈메이트온-서비스별 APP or WEB 구성](https://hulkong.notion.site/Service-APP-or-WEB-1209222b82104c07b66fd586188df9af)
 
 <br><br>
 
@@ -21,10 +24,7 @@
 ---
 - 이름: 김용현
 - 나이: 30세(1992년생)
-- 전문연구요원
-  - 전직가능
-  - 2018.08.24 ~ 2021.08.23
-  - 기초군사훈련(2020-09 ~ 2020-10)
+- 전문연구요원(2018.08.24 ~ 2021.08.23)
 - 자격증: 정보처리기사
 - 역할: Cloud Engineer or DevOpts Engineer
 
@@ -45,7 +45,9 @@
 ---
 | 회사명                                                                           |            근무기간             |    소속부서 / 직위    |               담당업무               |
 | :------------------------------------------------------------------------------- | :-----------------------------: | :-------------------: | :----------------------------------: |
-| [Openmate](http://www.openmate.co.kr) / [Openmate-ON](https://openmate-on.co.kr) | 2016/11/01 ~ 현재(5년차) | 운영사업팀/책임연구원 | 서비스 클라우드 인프라(AWS) 구축 및 개발지원, 서비스 유지보수, 사내 인프라 구축 및 IT업무 지원 |
+| [KASA](https://www.kasa.co.kr) | 2021/09/01(입사예정) ~  | 데브옵스엔지니어 | AWS 기반 인프라 구축, 운영 및 자동화 / 인프라 자원 최적화 및 보안 안정화 / DB 모니터링 및 성능 최적화 / 어플리케이션 서비스 모니터링, 로깅 및 알람 구성 지원 / 서비스 및 인프라 관련 장애 대응 |
+| [Openmate](http://www.openmate.co.kr) / [Openmate-ON](https://openmate-on.co.kr) | 2016.11.01 ~ 2021.08.24 | 운영사업팀/책임연구원 | 서비스 클라우드 인프라(AWS) 구축 및 개발지원 / 서비스 유지보수 / 사내 인프라 구축 및 IT업무 지원 |
+
 
 <br>
 
@@ -180,14 +182,36 @@
 
 ## **프로젝트**
 ---
-### 트렌드온 서비스 정기 월간 업데이트 배치 프로그램 제작 및 스케쥴링 적용  
-  진행기간: 2021.05 ~ 진행중  
+### 데이터온 Elastic Search 구축
+  진행기간: 2021.07 ~ 2021.07  
+  주요내용: 데이터온 서비스 Elastic Search 구축    
+  프로젝트 인원 수: 1명(본인)    
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: 서비스 최초 검색엔진 도입     
+  본인이 사용한 스킬: docker, docker-compose, Kibana, Elastic Search, Monstache, MongoDB  
+  결과: 데이터온 서비스 출시 때 확인 가능, [데이터온-ElasticSearch 구축 프로세스](https://hulkong.notion.site/ElasticSearch-7cee719f340d433eb6bc8ddccaac433e) 
+  
+<br>
+
+### 데이터온 MongoDB 구축
+  진행기간: 2021.06 ~ 2021.06    
+  주요내용: 데이터온 서비스 MongoDB 구축      
+  프로젝트 인원 수: 1명(본인)    
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: 서비스 최초 DocumnetDB 적용 및 퍼포먼스 향상    
+  본인이 사용한 스킬: docker, docker-compose, MongoDB    
+  결과: 데이터온 서비스 출시 때 확인 가능, [데이터온-MongoDB 구축 프로세스](https://hulkong.notion.site/Data-ON-MongoDB-58cc19dada934531aa10bdbb171b1a59) 
+  
+<br>
+
+### 트렌드온 서비스 정기 월간 업데이트 배치 프로그램 제작 
+  진행기간: 2021.05 ~ 2021.05  
   주요내용: 월간 Nice, KT 데이터 테스트 및 운영 데이터베이스 자동 업데이트  
   프로젝트 인원 수: 1명(본인)    
   본인 포지션(기여도): 개발(100%), 인프라(100%)  
   본인이 기여한 점: 데이터 업데이트 자동화  
-  본인이 사용한 스킬: docker, python, celery, SQS, ECS, CodeBuild, CodePipeline, SNS  
-  결과: 월간 Nice, KT 데이터 테스트 및 운영 데이터베이스 자동 업데이트  
+  본인이 사용한 스킬: docker, python  
+  결과: 월간 Nice, KT 데이터 테스트 및 운영 데이터베이스 자동 업데이트, [트렌드온-데이터업데이트 자동 업데이트 프로그램 개발](https://hulkong.notion.site/Trend-ON-1b82631ea1344beba2daf00bb3d3257d) 
   
 <br>
 
