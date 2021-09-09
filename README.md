@@ -84,7 +84,7 @@
 
 ### **업무관련 보유기술**
 
-- AWS 클라우드 플랫폼 기반 인프라 구축: Route53, CloudFront, S3, ELB, ECS(EC2 + Fargate), ECR, EC2, RDS, SQS, IAM, VPC  
+- AWS: Route53, CloudFront, S3, ELB, ECS(EC2 + Fargate), ECR, EC2, RDS, SQS, IAM, VPC  
 - k8s
 - Terraform
 - Ansible
