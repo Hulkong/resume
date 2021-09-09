@@ -89,7 +89,7 @@
 - Terraform
 - Ansible
 - Argo
-- customize
+- kustomize
 - grafana
 - ELK Stack
 - kafka
