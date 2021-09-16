@@ -30,7 +30,7 @@
 - 나이: 30세(1992년생)
 - 전문연구요원(2018.08.24 ~ 2021.08.23)
 - 자격증: 정보처리기사
-- 역할: Cloud Engineer or DevOpts Engineer
+- 역할: Cloud Engineer or DevOps Engineer
 
 </br></br>
 
