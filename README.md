@@ -84,7 +84,7 @@
 
 ### **업무관련 보유기술**
 
-- AWS: Route53, CloudFront, S3, ELB, EKS, ECR, EC2, RDS, SQS, IAM, VPC  
+- AWS: IAM, KMS, VPC, Direct Connect, EC2 / EKS / ECR, ELB, ALB, NLB, RDS, Elasticache, MSK, EBS, S3, EFS, Cloudfront, Route53, CloudWatch, CloudTrail
 - k8s
 - Terraform
 - Ansible
