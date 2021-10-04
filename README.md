@@ -246,7 +246,7 @@
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: 서비스 최초 검색엔진 도입  
   본인이 사용한 스킬: docker, docker-compose, Kibana, Elastic Search, Monstache, MongoDB  
-  결과: 데이터온 서비스 출시 때 확인 가능, [데이터온-ElasticSearch 구축 프로세스](https://hulkong.notion.site/ElasticSearch-7cee719f340d433eb6bc8ddccaac433e)  
+  결과: [Data-On(https://data-on.co.kr)](https://data-on.co.kr), [데이터온-ElasticSearch 구축 프로세스](https://hulkong.notion.site/ElasticSearch-7cee719f340d433eb6bc8ddccaac433e)  
   
 </br>
 
