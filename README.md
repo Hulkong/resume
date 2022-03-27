@@ -27,10 +27,11 @@
 ---
 
 - 이름: 김용현
-- 나이: 30세(1992년생)
+- 나이: 31세(1992년생)
+- 업무기간: 2016.11.01 ~ 현재진행중 
 - 전문연구요원(2018.08.24 ~ 2021.08.23)
 - 자격증: 정보처리기사
-- 역할: Cloud Engineer or DevOps Engineer
+- 포지션: DevOps Engineer
 
 </br></br>
 
@@ -62,11 +63,10 @@
 
 ### **주요 업무**
 
-- AWS 기반 인프라 구축, 운영 및 자동화  
-- 인프라 자원 최적화 및 보안 안정화  
-- DB 모니터링 및 성능 최적화  
-- 어플리케이션 서비스 모니터링, 로깅 및 알람 구성 지원  
-- 서비스 및 인프라 관련 장애 대응
+- 오케스트레이션 시스템 구성 및 운영
+- 클라우드 플랫폼 – AWS 관리 및 운영
+- 네트워크 구축 (AWS VPC, DX, OpenVPN, IPsec VPN)
+- 배포 플랫폼 – DroneCI & ArgoCD 구성 및 운영
 
 </br>
 
@@ -84,15 +84,28 @@
 
 ### **업무관련 보유기술**
 
-- AWS: IAM, KMS, VPC, Direct Connect, EC2 / EKS / ECR, ELB, ALB, NLB, RDS, Elasticache, MSK, EBS, S3, EFS, Cloudfront, Route53, CloudWatch, CloudTrail
-- k8s
-- Terraform
-- Ansible
-- Argo
-- kustomize
-- grafana
-- ELK Stack
-- kafka
+AWS
+ - Security / Compliance: Control Tower, SSO, IAM, KMS, System Manager, Secrets Manager, Site-to-Site VPN
+ - Network: VPC, Direct Connect, VPC Peering, Transit G/W, Nat G/W, Internet G/W, VGW
+ - Domain: Route53
+ - IaaS: EC2
+ - Container: EKS, ECR
+ - L4/L7 LoadBalancer: ALB, NLB
+ - Storage: RDS, Aurora, S3
+ - Observability: MSK, CloudWatch, CloudTrail
+ - CDN: CloudFront
+ - Queue broker: SQS
+ - Alarm: SNS, Chatbot
+ - Serverless: Lambda
+
+Orchestration: Kubernetes, Kustomize
+CI & CD: Drone CI, ArgoCD, Argo Workflow
+Observability: ELK Stack, Telegraf, InfluxDB, Grafana
+IaC: Terraform, Ansible
+Database: Redis Cloud
+Distributed Version Control System: Github
+Security: Keybase, 1Password
+
 
 </br>
 
@@ -101,6 +114,79 @@
 </br>
 
 ### **프로젝트**
+
+---
+
+#### **[Singapore Kasa거래소의 Metric기반 Observability 환경구축]**
+
+  진행기간: 2021.03 ~ 진행중  
+  주요내용: Singapore Kasa거래소의 Metric기반 Observability 환경구축  
+  프로젝트 인원 수: 1명(본인)   
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: Metric 데이터 시각화  
+  본인이 사용한 스킬: Github, Terraform, Ansible, docker, docker-compose, Telegraf, MSK, InfluxDB, Grafana, Slack
+  결과: Metric 데이터 시각화  
+  
+</br>
+
+#### **[Singapore Kasa거래소 AWS에 Site-To-Site VPN 연결]**
+
+  진행기간: 2021.01 ~ 2021.01  
+  주요내용: Singapore Kasa거래소 AWS의 TransitG/W에 내부망에 존재하는 팔로알토 VPN 장비 연결  
+  프로젝트 인원 수: 2명(본인포함)   
+  본인 포지션(기여도): 인프라(50%)  
+  본인이 기여한 점: 프라이빗 네트워크 구성  
+  본인이 사용한 스킬: TransitG/W  
+  결과: TransitG/W에 내부 VPN장비 연결  
+  
+</br>
+
+#### **[Singapore Kasa거래소 CI&CD 구축]**
+
+  진행기간: 2021.11 ~ 2021.12  
+  주요내용: Singapore Kasa거래소 배포시스템 구축  
+  프로젝트 인원 수: 1명(본인)  
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: CI&CD 프로세스 구축으로인한 개발자들 배포속도 향상  
+  본인이 사용한 스킬: Github, Kustomize, Kubernetes, DroneCI, ArgoCD, argocd-vault-plugin, AWS Load Balancer Controller, Cluster Autoscaler, HPA, kube2iam, certmanager, AWS SecretsManager   
+  결과: DroneCI, ArgoCD를 쿠버네티스 환경에 구축  
+  
+</br>
+
+#### **[Singapore Kasa거래소 AWS 인프라 구축]**
+
+  진행기간: 2021.11 ~ 2021.12  
+  주요내용: Singapore Kasa거래소 인프라 dev, staging, prod구축  
+  프로젝트 인원 수: 1명(본인)  
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: AWS Control Tower 및 SSO를 도입하여 Account관리용이하게 함, GitOps전략을 적용하여 Terraform Cloud와 연동, Github IaC 관리, AWS IaC로 프로비저닝 및 관리  
+  본인이 사용한 스킬: Github, Terraform, AWS Control Tower, AWS SSO, AWS IAM, AWS KMS, AWS Secrets Manager, AWS VPC(Subnet, Route Table, EIP, Security group, NACL, InternetG/W, NatG/W), Route53, ACM, CloudFront, S3, ALB, NLB, EC2, EKS, ECR, MSK, VPC Peering, RDS, Aurora    
+  결과: Github과 Terraform으로 코드 및 상태관리, 또한 Terraform을 모듈화하여 staging/prod 구축때는 프로비저닝시간 포함하여 최대 1시간 이내로 모두 구축 완료
+  
+</br>
+
+#### **[Singapore Github 인프라 구축]**
+
+  진행기간: 2021.11 ~ 2021.11  
+  주요내용: Terraform으로 Singapore Github 인프라구축 및 관리  
+  프로젝트 인원 수: 1명(본인)  
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: Github Terraform으로 코드화  
+  본인이 사용한 스킬: Terraform Cloud, Github 
+  결과: Github 코드로 관리  
+  
+</br>
+
+#### **[Singapore Kasa거래소 네트워크 아키텍쳐 설계 및 사전조사]**
+
+  진행기간: 2021.10 ~ 2021.10  
+  주요내용: Singapore Kasa거래소 인프라 아키텍쳐 설계  
+  프로젝트 인원 수: 1명(본인)  
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: 네트워크 아키텍쳐 설계, AWS 서비스 아키텍쳐 설계, SaaS 서비스 및 3rd-party 구매 및 구축(Redis Cloud, Github, Slack, Sentry, Codecov, Mailgun, Twilio)  
+  본인이 사용한 스킬: Confluence, DrawIO  
+  결과: 초기 아키텍쳐 수립으로 인한 빠른 인프라 구축가능
+  
 
 </br></br>
 
