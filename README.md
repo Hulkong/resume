@@ -98,13 +98,13 @@ AWS
  - Alarm: SNS, Chatbot
  - Serverless: Lambda
 
-Orchestration: Kubernetes, Kustomize
-CI & CD: Drone CI, ArgoCD, Argo Workflow
-Observability: ELK Stack, Telegraf, InfluxDB, Grafana
-IaC: Terraform, Ansible
-Database: Redis Cloud
-Distributed Version Control System: Github
-Security: Keybase, 1Password
+Orchestration: Kubernetes, Kustomize  
+CI & CD: Drone CI, ArgoCD, Argo Workflow  
+Observability: ELK Stack, Telegraf, InfluxDB, Grafana  
+IaC: Terraform, Ansible  
+Database: Redis Cloud  
+Distributed Version Control System: Github  
+Security: Keybase, 1Password  
 
 
 </br>
