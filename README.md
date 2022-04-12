@@ -117,21 +117,33 @@ Security: Keybase, 1Password
 
 ---
 
+#### **[Korea Kasa 웹거래소 인프라 구축]**
+
+  진행기간: 2022.04 ~ 2022.04  
+  주요내용: 코리아 웹거래소 오픈을 위한 인프라 구축    
+  프로젝트 인원 수: 1명(본인)   
+  본인 포지션(기여도): 인프라(100%)  
+  본인이 기여한 점: 배포 및 전반적인 인프라환경 세팅    
+  본인이 사용한 스킬: Route53, CloudFront, ArgoCD, DroneCI, Kubernetes  
+  결과: 코리아 웹거래소 오픈준비 완료    
+  
+</br>
+
 #### **[Singapore Kasa거래소의 Metric기반 Observability 환경구축]**
 
-  진행기간: 2021.03 ~ 진행중  
+  진행기간: 2022.03 ~ 2022.04  
   주요내용: Singapore Kasa거래소의 Metric기반 Observability 환경구축  
   프로젝트 인원 수: 1명(본인)   
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: Metric 데이터 시각화  
-  본인이 사용한 스킬: Github, Terraform, Ansible, docker, docker-compose, Telegraf, MSK, InfluxDB, Grafana, Slack
+  본인이 사용한 스킬: Github, Terraform, Ansible, docker, docker-compose, Telegraf, MSK, InfluxDB, Grafana, Slack  
   결과: Metric 데이터 시각화  
   
 </br>
 
 #### **[Singapore Kasa거래소 AWS에 Site-To-Site VPN 연결]**
 
-  진행기간: 2021.01 ~ 2021.01  
+  진행기간: 2022.01 ~ 2022.01  
   주요내용: Singapore Kasa거래소 AWS의 TransitG/W에 내부망에 존재하는 팔로알토 VPN 장비 연결  
   프로젝트 인원 수: 2명(본인포함)   
   본인 포지션(기여도): 인프라(50%)  
