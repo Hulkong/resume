@@ -117,7 +117,7 @@ Security: Keybase, 1Password
 
 ---
 
-#### **[Korea Kasa 웹거래소 인프라 구축]**
+#### **[Kasa Korea 웹거래소 인프라 구축]**
 
   진행기간: 2022.04 ~ 2022.04  
   주요내용: 코리아 웹거래소 오픈을 위한 인프라 구축    
@@ -129,7 +129,7 @@ Security: Keybase, 1Password
   
 </br>
 
-#### **[Singapore Kasa거래소의 Metric기반 Observability 환경구축]**
+#### **[Kasa Singapore 거래소의 Metric기반 Observability 환경구축]**
 
   진행기간: 2022.03 ~ 2022.04  
   주요내용: Singapore Kasa거래소의 Metric기반 Observability 환경구축  
@@ -141,7 +141,7 @@ Security: Keybase, 1Password
   
 </br>
 
-#### **[Singapore Kasa거래소 AWS에 Site-To-Site VPN 연결]**
+#### **[Kasa Singapore 거래소 AWS에 Site-To-Site VPN 연결]**
 
   진행기간: 2022.01 ~ 2022.01  
   주요내용: Singapore Kasa거래소 AWS의 TransitG/W에 내부망에 존재하는 팔로알토 VPN 장비 연결  
@@ -153,7 +153,7 @@ Security: Keybase, 1Password
   
 </br>
 
-#### **[Singapore Kasa거래소 CI&CD 구축]**
+#### **[Kasa Singapore 거래소 CI&CD 구축]**
 
   진행기간: 2021.11 ~ 2021.12  
   주요내용: Singapore Kasa거래소 배포시스템 구축  
@@ -165,7 +165,7 @@ Security: Keybase, 1Password
   
 </br>
 
-#### **[Singapore Kasa거래소 AWS 인프라 구축]**
+#### **[Kasa Singapore 거래소 AWS 인프라 구축]**
 
   진행기간: 2021.11 ~ 2021.12  
   주요내용: Singapore Kasa거래소 인프라 dev, staging, prod구축  
@@ -177,7 +177,7 @@ Security: Keybase, 1Password
   
 </br>
 
-#### **[Singapore Github 인프라 구축]**
+#### **[Kasa Singapore Github 인프라 구축]**
 
   진행기간: 2021.11 ~ 2021.11  
   주요내용: Terraform으로 Singapore Github 인프라구축 및 관리  
@@ -189,7 +189,7 @@ Security: Keybase, 1Password
   
 </br>
 
-#### **[Singapore Kasa거래소 네트워크 아키텍쳐 설계 및 사전조사]**
+#### **[Kasa Singapore 거래소 네트워크 아키텍쳐 설계 및 사전조사]**
 
   진행기간: 2021.10 ~ 2021.10  
   주요내용: Singapore Kasa거래소 인프라 아키텍쳐 설계  
