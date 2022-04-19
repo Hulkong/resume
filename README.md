@@ -184,7 +184,7 @@ Security: Keybase, 1Password
   프로젝트 인원 수: 1명(본인)  
   본인 포지션(기여도): 인프라(100%)  
   본인이 기여한 점: Github Terraform으로 코드화  
-  본인이 사용한 스킬: Terraform Cloud, Github 
+  본인이 사용한 스킬: Terraform Cloud, Github  
   결과: Github 코드로 관리  
   
 </br>
